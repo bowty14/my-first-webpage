@@ -1,4 +1,4 @@
-# _Chocolate Chip Cookie Recipe_
+# _my first webpage_
 
 #### _my first webpage, 03/17/2020_
 
@@ -16,8 +16,8 @@ _A simple HTML project for my first webpage_
 
 ## Known Bugs
 
-_There aren't any bugs in these cookies!  Unless of course you add them yourself!_
-
+_There aren't any bugs._
+_If you have any problems with the program or find any bugs email me at tylerbowerman@yahoo.com_
 ## Technologies Used
 
 _HTML, CSS_
